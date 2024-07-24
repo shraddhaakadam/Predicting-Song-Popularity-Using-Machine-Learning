@@ -1,1 +1,2 @@
 # Predicting-Song-Popularity-Using-Machine-Learning
+This project focuses on predicting song popularity using machine learning techniques. The dataset, sourced from Kaggle, contains various features related to songs, such as acousticness, danceability, and energy, among others. With 130,663 entries and 17 columns, the dataset provides a rich source of information for training and evaluating predictive models. By leveraging these features, the project aims to develop a robust model that can accurately forecast the popularity of a song.
